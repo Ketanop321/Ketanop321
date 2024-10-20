@@ -1,16 +1,16 @@
-## Hi there 👋
+## GSSOC(24) Badges 🪶:
 
-**Ketanop321/Ketanop321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="./assets/postman.png" width="85px" height="85px" />
+  <img src="./assets/1.png" width="85px" height="85px" />
+  <img src="./assets/2.png" width="85px" height="85px" />
+  <img src="./assets/3.png" width="85px" height="85px" />
+  <img src="./assets/4.png" width="85px" height="85px" />
+  <img src="./assets/5.png" width="85px" height="85px" />
+  <img src="./assets/6.png" width="85px" height="85px" />
+  <img src="./assets/7.png" width="85px" height="85px" />
+  <img src="./assets/8.png" width="85px" height="85px" /></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## Hacktoberfest 2024
 [![An image of @ketanop321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ketanop321)](https://holopin.io/@ketanop321)
