@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Ketanop321/Ketanop321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![An image of @ketanop321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ketanop321)](https://holopin.io/@ketanop321)
