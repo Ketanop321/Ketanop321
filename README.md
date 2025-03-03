@@ -13,6 +13,9 @@
 </div>
 
 ## Hacktoberfest 2024
+
+
+
 [![An image of @ketanop321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ketanop321)](https://holopin.io/@ketanop321)
 
 ![Gamerking177 GitHub stats](https://github-readme-stats.vercel.app/api?username=ketanop321&theme=radical&show_icons=true) 
